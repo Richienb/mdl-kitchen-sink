@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'custom-material-icons';
-  src:  url('fonts/custom-material-icons.eot?z2otbk');
-  src:  url('fonts/custom-material-icons.eot?z2otbk#iefix') format('embedded-opentype'),
-    url('fonts/custom-material-icons.ttf?z2otbk') format('truetype'),
-    url('fonts/custom-material-icons.woff?z2otbk') format('woff'),
-    url('fonts/custom-material-icons.svg?z2otbk#custom-material-icons') format('svg');
+  src:  url('fonts/custom-material-icons.eot?n707j3');
+  src:  url('fonts/custom-material-icons.eot?n707j3#iefix') format('embedded-opentype'),
+    url('fonts/custom-material-icons.ttf?n707j3') format('truetype'),
+    url('fonts/custom-material-icons.woff?n707j3') format('woff'),
+    url('fonts/custom-material-icons.svg?n707j3#custom-material-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -36,7 +36,7 @@
 .icon-format_italic:before {
   content: "\e902";
 }
-.icon-format:before {
+.icon-format_bold:before {
   content: "\e903";
 }
 .icon-star_border:before {
